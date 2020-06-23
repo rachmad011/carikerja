@@ -131,5 +131,17 @@ module.exports = [{
         },
         tech_stack: ['Laravel', 'Codeigniter', 'Angular', 'Ionic'],
         hired: false
+    },
+    {
+        name: 'Rachmad Rinaldie',
+        status: 'Fulltime',
+        role: 'Full Stack Developer',
+        location: 'Jakarta Selatan',
+        social_media: {
+            Linkedin: 'https://www.linkedin.com/in/rachmadrin/',
+            Github: 'https://github.com/rachmad011'
+        },
+        tech_stack: ['Laravel', 'PHP', 'MySQL', 'Cloud Server Administration'],
+        hired: false
     }
 ];
